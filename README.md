@@ -1,6 +1,6 @@
 # Continuous Adaptation with VertexAI's AutoML and Pipeline
 
-This repository contains two notebooks to demonstrate how to automate to produce a new AutoML model when the new dataset comes in. This project uses `Vertex AI` in general, `Vertex Managed Dataset`, `Vertex Pipeline`, Vertex AutoML`, `Cloud Storage`, and `Cloud Function` in Google Cloud Platform.
+This repository contains two notebooks to demonstrate how to automate to produce a new AutoML model when the new dataset comes in. This project uses `Vertex AI` in general, `Vertex Managed Dataset`, `Vertex Pipeline`, `Vertex AutoML`, `Cloud Storage`, and `Cloud Function` in Google Cloud Platform.
 
 ![](https://i.ibb.co/FsVN6My/Screen-Shot-2022-01-14-at-12-34-03-PM.png)
 
